@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @rakibhossain
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning programing 
+### Hi there 👋, my name is Rakib Hossain
+#### I am learning coding
+I made this project just for fun, it allows you to create nice and simple.
+
+Skills:  HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
-rakibhossain2025/rakibhossain2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
