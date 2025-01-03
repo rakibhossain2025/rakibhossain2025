@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: rakibhossain4230@gmail.com</h3>
 <p align="left">
 </p>
 
