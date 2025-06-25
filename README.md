@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Rakibul Islam</h1>
+<h1 align="center">MD.Rakibul Islam</h1>
 <h3 align="center">Passionate Web Developer & Learner</h3>
 <p align="center">
   <strong>Location:</strong> Mymensingh, Dhaka &nbsp; | &nbsp<strong>Email:</strong> <a href="mailto:dev.rakibislam@gmail.com
