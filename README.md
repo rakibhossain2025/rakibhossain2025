@@ -2,9 +2,7 @@
   <img src="img.png" alt="Banner Image" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/193303712?v=4" alt="Rakibul's Profile Picture" width="120" height="120" style="border-radius: 50%; object-fit: cover;" />
-</p>
+
 
 <h1 align="center">Rakibul Islam</h1>
 <h3 align="center">Passionate Web Developer & Learner</h3>
