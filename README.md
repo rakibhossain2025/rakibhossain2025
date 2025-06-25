@@ -53,8 +53,10 @@ I’m Rakibul, a dedicated web developer from Bangladesh passionate about buildi
   <a href="https://x.com/islam_raki99557" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter" />
   </a>
-  <a href="https://dev.to/rakibhossain4230" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to" alt="Dev.to" />
+<a href="https://medium.com/@rakibhossain4230" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=FFFFFF" alt="Medium" />
+</a>
+
 </a>
 
 
