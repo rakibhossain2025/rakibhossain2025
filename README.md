@@ -67,7 +67,7 @@ I’m Rakibul, a dedicated web developer from Bangladesh passionate about buildi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibul-islam-dev&show_icons=true&theme=dracula&count_private=true" alt="Rakibul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain2025&show_icons=true&theme=dracula&count_private=true" alt="Rakibul's GitHub Stats" />
 </p>
 
 ---
