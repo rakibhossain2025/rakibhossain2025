@@ -8,7 +8,7 @@
 <h3 align="center">Passionate Web Developer & Learner</h3>
 <p align="center">
   <strong>Location:</strong> Mymensingh, Dhaka &nbsp; | &nbsp<strong>Email:</strong> <a href="mailto:dev.rakibislam@gmail.com
-">dev.rakibislam@gmail.com</a>
+">dev.rakibislam@gmail.com</a> | <a terget="_blank" href="https://drive.google.com/file/d/1O7zgHYHCDb9n3-Lri7A0bKhLfGQ4nBrj/view?usp=drive_link">resume</a>
 </p>
 
 ----
