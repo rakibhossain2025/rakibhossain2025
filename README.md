@@ -82,7 +82,7 @@ I’m Rakibul, a dedicated web developer from Bangladesh, passionate about build
 # 🌐 social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2025hassanrakib)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rakibuIlsIam2025)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/islam_raki99557)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/islam_raki99557)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rakibhossain4230)
 
 
